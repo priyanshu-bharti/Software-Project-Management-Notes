@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "Modules": {
+      "name": "Modules",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "Module-2-Stepwise-Approach-For-Project-Evaluation": 0,
+        "Module-1-Introduction": 1,
+        "Module-3-Activity-Planning": 2,
+        "Module-4-Risk-Management": 3,
+        "Module-5-Monitoring": 4,
+        "Module-6-Control": 5,
+        "Module-7-Managing-People-and-Organizing-Teams": 6
+      }
+    },
+    "images": {
+      "name": "images",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "CHANGELOG": 0,
+    "BLANK_README": 1,
+    "README": 2
+  }
+}

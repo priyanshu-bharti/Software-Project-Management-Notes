@@ -110,6 +110,31 @@
    2. Prepare the post installation notice document.
    3. Periodically update the software and provide support.
 
+### SDLC As Per ISO 12207
+
+- **Requirement Analysis:**
+  - Investigate potential users and what their requirements for the project.
+  - Perform Quality refinements
+- **Architecture Design:**
+  - Create a low level design of the system based on the requirements.
+  - Then create a high level design that maps the software requirements to the actual components.
+- **Detailed Design:**
+  - Each software component is designed and tested in isolation.
+- **Coding and Testing:**
+  - Write the code to implement the designs using some programming language.
+- **Integration:**
+  - Components collected together and tested to see if they fulfill the requirements.
+  - Software components can be combined together at the system level.
+- **Qualification Testing:**
+  - See if the system satisfies all the requirements that was specified in the specification.
+- **Installation:**
+  - Deploy the system and make it operational for the client.
+  - May also require setting up the system parameters, installing the system onto the hardware platforms and training the users.
+- **Acceptance Support:**
+  - Resolve all the problems with the new system
+  - Debug and fix the code if there are any problems.
+  - Implement any improvements if requrired.
+
 ### Plan vs Methods vs Methodologies
 
 - **Plans** : Some idea about the method of working on completing a process.
@@ -119,14 +144,14 @@
 ### What is management?
 
 - It involves the following activities such as :
-  1. Planning : Decide What to do
-  2. Organizing : Make arrangements
-  3. Staffing : Recruiting right people
-  4. Directing : Delegating tasks and instructing them
-  5. Monitoring : Track the progress
-  6. Controlling : Take actions when stuck
-  7. Innovating : Coming up with problem’s solutions
-  8. Representing : Communicating with the clients, stakeholders and developers.
+  1. **Planning :** Decide What to do
+  2. **Organizing :** Make arrangements
+  3. **Staffing :** Recruiting right people
+  4. **Directing :** Delegating tasks and instructing them
+  5. **Monitoring :** Track the progress
+  6. **Controlling :** Take actions when stuck
+  7. **Innovating :** Coming up with problem’s solutions
+  8. **Representing :** Communicating with the clients, stakeholders and developers.
 
 ### Problems with software projects
 
@@ -138,10 +163,16 @@
 - Incorrect success benchmark
 - Lack of up-to-date documentation
 
+### Goals from the perspective of different stakeholders
+
+- **Objective:** User satisfaction with software product
+- **Analyst Goals:** Accurate Requirements
+- **Developer Goals:** Software should be reliable
+
 ### Project Objectives
 
 - They’re the reasons for the completion and success of the project.
-- It focuses on _what_ to be done rather than _how_ things would be done.
+- It focuses on **what** to be done rather than **how** things would be done.
 - Project needs to have an authority
   - To setup the scope
   - To approve the budget
@@ -160,7 +191,7 @@
 - **Relevant** : Objective must be relevant to the project
 - **Time Constrained** : Definite point in time by which the project should be completed.
 
-### Stakeholders
+### Who are Stakeholders?
 
 - People who have some stake or interest in the project
 - They could be:
@@ -182,6 +213,8 @@
   - Non-Quantifiable
 
 ### Management Control
+
+![Management Control](https://miro.medium.com/max/1132/1*_ERyhe1CUCCerIl0YHGwLw.png)
 
 1. Determine source of information from the Real World
 2. Collect data
