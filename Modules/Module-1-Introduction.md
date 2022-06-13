@@ -1,222 +1,141 @@
-# Software Project Manangement
+# Software Project Manangement Notes
 
 ## Module - 1 : Introduction to Software Project Management
 
-### Curriculum
+- [x] Project Definition
+- [x] Types of Project
+- [x] Problems with developing Software Project
+- [x] Activities covered by Software Project Management
+- [x] Software Project Management Control Cycle
 
-- Project Definition
-- Types of Project
-- Problem with Software Project
-- Activities covered By Software Project Management
-- Management Control Cycle.
+## Project Definition
 
-### What is a project?
+- Plan or design of a Software
+- Taking the software from a prototype design to the actual working product.
+- Projects involve exploration and a set of activites for development of the software.
 
-- Set of unique tasks.
-- Tasks can be completed in order to achieve a desired outcome.
-- Each project has it own life cycle.
-- There are clearly defined start and end points.
+## Characteristics of Projects
 
-### What is Software Project management?
+The Software Projects contain the following characteristics:
 
-- To meet project requirements, we applying
-  - knowledge,
-  - skills
-  - tools and techniques
-- Achieve a desired outcome by using a combination of skills like
-  - Strategic Thinking
-  - Time management and Organization.
+- Plan
+- Budget
+- Start and End Date
+- Set of repeating and non-repeating tasks
+- Involves specializations
+- Phases of development
+- Constraint on resources
+- Complex architecture
 
-### Why is software project management important?
+## Types of Project
 
-- Poor project management can lead to:
-  - Money and budget limitations (43% projects go over-budget)
-  - Software projects aren’t usually successful (33% success rate)
-  - Unexpected delays (82% projects were late)
+<img src="https://www.workfront.com/sites/default/files/imported/268881036-8085.jpg">
 
-### Project Characteristics
+**Walking in the fog**
 
-- Requires Planning
-- Has a Specific and clear goal
-- Non-routine tasks involved
-- Made for a customer
-- Involves different specializations
-- Made in several phases
-- The task is rather complex
-- Has limited resources
+- Don’t know what you want or how to achieve it
+- Organisation is attempting to do something different.
+- Something that hasn’t been attempted before.
+- These types of projects are started because of a change in circumstances.
+- Changes can be political, legislative, or socio-economic organisational change.
+- Walking in the fog projects should proceed cautiously.
+- If not, you risk delivering nothing of benefit to the organisation.
 
-### What makes Software projects different from other projects?
+**Making a movie**
 
-- Invisibility (We don’t see the software until it is ready)
-- Complexity (Software design by nature is complex to understand)
-- Conformity (Abide by the requirements of the human clients)
-- Flexibility (Once a project is completed the deliverables can be tweaked)
+- You know how to do but not what to do.
+- Stakeholders know how project should go but what should be done.
+- You need expertise in the area of interest and the workforce to do the project.
+- Take care of the what questions early on rather than how.
+- Get the problem solvers and task them of solving 'what'.
+- Once the what is resolved, you can quickly finish things off.
 
-### Activities covered by software project management
+**Going on a quest**
 
-1. **Feasibility study**
-   - Gather information about the requirements of proposed software
-   - Ask clients and stakeholders what problem they wish to overcome.
-2. **Planning**
-   - If the project seem viable, planning begins.
-   - In case of large projects, the detailed projects are not right at beginning.
-   - Create outline for entire project and detailed for the first stage.
-3. **Execution**
-   - Consists of design and implementation sub-phases
-   - Design is about thinking and making decision about the precise form the products that the project is to create.
-   - The plan lays down the activities that have to be carried out in order to create the products.
+- You are very sure of what should be done yet, unsure how you will achieve it.
+- IT projects generally fall in this category.
+- Budget is usually overblown, Project is late, or not delivering the expected benefits.
+- You need to balance time and cost with the freedom to innovate and solve problems.
 
-### Software Development Phases
+**Painting by numbers**
 
-1. **Project Initiation**
-   1. Define scope of the project
-   2. Understand the domain
-   3. Understand the problem
-2. **Requirement/Planning**
-   1. Analyze the project requirements
-   2. Perform feasibility check
-   3. Prepare the SRS documentation
-   4. Send the documentation to the client for its approval
-3. **Design**
-   1. Define the project’s architectural design
-   2. Prepare various UML (Unified Modeling Language) diagrams
-      - Use-case Diagram
-      - Data Flow diagram
-      - Activity diagram
-      - State Diagram
-      - Class and Object Diagrams
-   3. Perform Project Design Review
-4. **Development**
-   1. Prepare the prototype for the client
-   2. Start the project implementation based on the design and requirements
-   3. Conduct Code reviews with experts
-5. **Testing**
-   1. Perform different kinds of testing
-      - Black Box
-      - Grey Box
-      - White Box
-      - Code and branch Coverage
-      - Load and stress testing
-      - Usability testing
-   2. Remove any bugs and issues plaguing the project
-   3. Prepare a testing summary/report for the project
-6. **Deployment**
-   1. Prepare the instruction and operation manual for the client
-   2. Install the project on the client’s systems
-   3. Perform Operational Acceptance
-   4. Prepare the acceptance document
-7. **Post-Deployment**
-   1. Initially, the project is released with less functionality, which get added overtime.
-   2. Prepare the post installation notice document.
-   3. Periodically update the software and provide support.
+- You always want to be under time you start investing lots of time and money.
+- You are sure of what to do and how it is to be done.
+- Have clear goals and set of activities to complete the project.
 
-### SDLC As Per ISO 12207
+## Problems with Developing Software Project
 
-- **Requirement Analysis:**
-  - Investigate potential users and what their requirements for the project.
-  - Perform Quality refinements
-- **Architecture Design:**
-  - Create a low level design of the system based on the requirements.
-  - Then create a high level design that maps the software requirements to the actual components.
-- **Detailed Design:**
-  - Each software component is designed and tested in isolation.
-- **Coding and Testing:**
-  - Write the code to implement the designs using some programming language.
-- **Integration:**
-  - Components collected together and tested to see if they fulfill the requirements.
-  - Software components can be combined together at the system level.
-- **Qualification Testing:**
-  - See if the system satisfies all the requirements that was specified in the specification.
-- **Installation:**
-  - Deploy the system and make it operational for the client.
-  - May also require setting up the system parameters, installing the system onto the hardware platforms and training the users.
-- **Acceptance Support:**
-  - Resolve all the problems with the new system
-  - Debug and fix the code if there are any problems.
-  - Implement any improvements if requrired.
+- Projects are not often successful
+  - Only 1/3rd of the projects are successful
+  - 82% were delayed
+  - 43% exceeded the budget
+- Poor Management and Lack of skills
+- Poor Risk management
+- Poor delegation of responsibilities
+- Undefined Success benchmark
+- Lack of updated documentation
+- Lack of standards
 
-### Plan vs Methods vs Methodologies
+## Activities covered by Software Project Management
 
-- **Plans** : Some idea about the method of working on completing a process.
-- **Methods** : Type of activity to be performed in general.
-- **Methodologies** : Group of several techniques or methods to be performed.
+1. `Requirements` Requirement Analysis
+1. `Requirements` Feasibility Check
+1. `Design` System Design analysis
+1. `Design` Create visual representation
+1. `Implementation` Detailed Design
+1. `Implementation` Code and Text
+1. `Implementation` Integration
+1. `Implementation` Qualification Test
+1. `Installation` Installation
+1. `Installation` Acceptance Support
 
-### What is management?
+## Plans and Methodologies for testing software projects
 
-- It involves the following activities such as :
-  1. **Planning :** Decide What to do
-  2. **Organizing :** Make arrangements
-  3. **Staffing :** Recruiting right people
-  4. **Directing :** Delegating tasks and instructing them
-  5. **Monitoring :** Track the progress
-  6. **Controlling :** Take actions when stuck
-  7. **Innovating :** Coming up with problem’s solutions
-  8. **Representing :** Communicating with the clients, stakeholders and developers.
+- Analyse Requirements
+- Derive and Write Test Cases
+- Verify that Requirements are implemented
+- Create scripts that checks for each output of the test cases.
+- Compare the actual and expected for each test case.
 
-### Problems with software projects
+## Management in a Nutshell
 
-- Poor planning and resource estimation
-- Lack of standards and measures to be followed
-- Lack of guidelines to make informed decisions
-- Lack of methods to visualize the progress
-- Ambiguity in roles and responsibilities
-- Incorrect success benchmark
-- Lack of up-to-date documentation
+- **Planning** : Decide what is to be done.
+- **Organizing** : Make arrangements.
+- **Staffing** : Selecting the right people for the job.
+- **Directing** : Give instructions.
+- **Monitoring** : Checking on progress.
+- **Controlling** : Actions that gets you out of stuck situation.
+- **Innovating** : Coming up with unique solutions.
+- **Representing** : Communicate with stakeholders.
 
-### Goals from the perspective of different stakeholders
+## Objective of the Project
 
-- **Objective:** User satisfaction with software product
-- **Analyst Goals:** Accurate Requirements
-- **Developer Goals:** Software should be reliable
+- **Specific** : Concise and concrete information
+- **Measurable** : Existence of some metric for evaluating progress/success.
+- **Achievable** : By the group or the individual.
+- **Relevant** : To the purpose of the project.
+- **Time Constrained** : Definite point in time by which the project has to be done.
 
-### Project Objectives
+## Objectives from different perspectives
 
-- They’re the reasons for the completion and success of the project.
-- It focuses on **what** to be done rather than **how** things would be done.
-- Project needs to have an authority
-  - To setup the scope
-  - To approve the budget
-  - To Setup and monitor the objectives
-  - To update objectives as they see fit
-  - Authority could be:
-    - Board Members
-    - Management Board
-    - Steering Committee
+- **Overall** : User Satisfaction.
+- **Analyst** : Accurate Requirements Specified.
+- **Developer** : Software must be reliable.
 
-### Objective Characteristics (SMART)
+## Stakeholders
 
-- **Specific** : Effective, clear and well defined.
-- **Measurable** : Measure of how successful the project has been.
-- **Achievable** : By the team or the individual
-- **Relevant** : Objective must be relevant to the project
-- **Time Constrained** : Definite point in time by which the project should be completed.
+- People who have interest in the project.
+- **Internal Stakeholders** : Under the direct managerial control of the project leader.
+- **External Stakeholders** : Within the organization but in a different team.
+- **External to Projects and Organization** : Users, clients, freelance contractors, etc.
 
-### Who are Stakeholders?
+## Software Project Management Control Cycle
 
-- People who have some stake or interest in the project
-- They could be:
-  - users
-  - clients
-  - developers
-  - internal members
-  - external members within the organization. (Ex Project Manager)
-  - External members outside the organization. (Independent Contractors)
+<img src="https://miro.medium.com/max/1132/1*_ERyhe1CUCCerIl0YHGwLw.png">
 
-### Projects from a business standpoint
+### Control Cycle
 
-- The benefits must outweigh the costs
-- **Costs :**
-  - Development Cost
-  - Operational Cost
-- **Benefits :**
-  - Quantifiable
-  - Non-Quantifiable
-
-### Management Control
-
-![Management Control](https://miro.medium.com/max/1132/1*_ERyhe1CUCCerIl0YHGwLw.png)
-
-1. Determine source of information from the Real World
+1. Determine Information Source from the Real World
 2. Collect data
 3. Process the data
 4. Define objectives

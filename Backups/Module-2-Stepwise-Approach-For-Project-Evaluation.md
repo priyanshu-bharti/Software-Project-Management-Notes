@@ -1,5 +1,12 @@
 # Module 2
 
+- [ ] lanning the software project
+- [ ] Product break down structure for identifying the project activities
+- [ ] Strategic Assessment
+- [ ] Technical Assessment
+- [ ] Cost Benefit Evaluation Techniques
+- [ ] Risk Evaluation
+
 ### Planning the Project
 
 1.  Identify Scope, Objectives and authority
@@ -14,6 +21,7 @@
 10. Create Low-level plans
 
 ### Project Evaluation
+
 
 ### Strategic Assessment
 
@@ -51,8 +59,6 @@
 ### Discount Factor
 
 - `Discount Factor` = 1/(1+r)^t
-
-<br>
 
 ## Software Estimating techniques
 
