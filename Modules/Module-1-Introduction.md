@@ -2,11 +2,11 @@
 
 ## Module - 1 : Introduction to Software Project Management
 
-- [x] Project Definition
-- [x] Types of Project
-- [x] Problems with developing Software Project
-- [x] Activities covered by Software Project Management
-- [x] Software Project Management Control Cycle
+- [x] ~~Project Definition~~
+- [x] ~~Types of Project~~
+- [x] ~~Problems with developing Software Project~~
+- [x] ~~Activities covered by Software Project Management~~
+- [x] ~~Software Project Management Control Cycle~~
 
 ## Project Definition
 
