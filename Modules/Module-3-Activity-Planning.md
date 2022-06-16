@@ -2,11 +2,11 @@
 
 ## Module 3 : Activity Planning
 
-- [ ] Scheduling projects
-- [ ] Activity vs product based approach for scheduling
-- [ ] Hybrid approach for scheduling projects
-- [ ] Precedence Diagramming Method
-- [ ] Network Planning Models : Forward and Backward Pass
+- [x] ~~Scheduling projects~~
+- [x] ~~Activity vs product based approach for scheduling~~
+- [x] ~~Hybrid approach for scheduling projects~~
+- [x] ~~Precedence Diagramming Method~~
+- [x] ~~Network Planning Models : Forward and Backward Pass~~
 
 ## Scheduling projects
 
