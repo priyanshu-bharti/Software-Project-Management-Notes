@@ -6,6 +6,7 @@
 - [x] ~~Types of Risks~~
 - [x] ~~How to manage risks~~
 - [x] ~~Strategies for reducing risk in projects~~
+- [x] ~~Resource Allocation~~
 
 ## Risk
 
@@ -106,3 +107,46 @@
 - Avoid risk inducing activities.
 - Transfer risky elements or delay them.
 - Make backup plans and contingencies.
+
+## Resource Allocation
+
+### Resource
+
+- Resource can include:
+  - Labor
+  - Equipment
+  - Materials
+  - Spaces
+  - Services
+  - Time
+  - Money
+
+### What is Resource Allocation
+
+- Identify resources required for each activity.
+- Create a resource allocation list.
+- Categorize resources.
+- Allocate the resources using histogram.
+
+<img src="../images/img6.png">
+
+The above histogram shows the requirement of the system analysts and the supply which is outgrowing the requirement.
+
+### Resource Smoothing
+
+- Sometimes it is necessary to plan the resource on a timely basis to fill out any gaps left due to resource being unavailable.
+- E.g. Staff going on leave on weekends, so we need other people on the project during the time.
+- This is called Resource Smoothing.
+
+### Resource Clashes
+
+- Sometimes single is resource is required at multiple places.
+- This can be resolved by delaying one of the activites and rescheduling it using slack time.
+- Preempting resource from a non-critical task.
+- Increasing the number of resources.
+
+### Prioritizing Activities
+
+1. **Based on Slack time** : The Lowest slack time has highest priority.
+2. **Based on the duration** : Also accounts for the duration and the slack time of a task.
+
